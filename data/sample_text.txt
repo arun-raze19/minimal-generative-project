@@ -1,0 +1,298 @@
+{
+  "college_info": {
+    "name": "Mailam Engineering College",
+    "abbreviation": "MEC",
+    "established": 1998,
+    "location": {
+      "address": "Mailam – 604304, Tindivanam Taluk, Villupuram District, Tamil Nadu, India",
+      "contact": {
+        "phone": "04147-241515 / 241551",
+        "mobile": "+91 9360428683",
+        "email": "info@mailamengg.com"
+      }
+    },
+    "approvals": [
+      "Approved by AICTE, New Delhi",
+      "Affiliated to Anna University, Chennai"
+    ],
+    "description": "Mailam Engineering College is a self-financing institution established in 1998 in Villupuram district. The college is celebrating its 25th year (Silver Jubilee) and is known for quality education and placement opportunities.",
+    "key_people": [
+      {
+        "name": "Dr. S. Senthil",
+        "position": "Director"
+      },
+      {
+        "name": "Dr. R. Rajappan",
+        "position": "Principal"
+      },
+      {
+        "name": "Mr. R. Sayeekumar",
+        "position": "Manager"
+      },
+      {
+        "name": "Dr. P. Sathish Kumar",
+        "position": "Placement Officer"
+      }
+    ],
+    "vision": "Thrive as a centre of excellence through teacher and learner-centred education, innovation and state-of-the-art research by providing skilled engineers to create a sustainable, value-based society.",
+    "mission": [
+      "To provide skill-based education to master the students in problem-solving and analytical skills",
+      "To enrich and empower students' calibre through the best teaching-learning methodology to meet the demands of the corporate world",
+      "To guide students in research with the aim of having an ethical impact on society",
+      "Grooming professionals with high ethical values and the ability to solve real-life problems"
+    ],
+    "achievements": [
+      "No.1 in placement ranking among Engineering Colleges of Tamil Nadu",
+      "Producing Anna University rank holders every year",
+      "Awarded third rank for best infrastructure facilities among 225 self-financing colleges"
+    ],
+    "facilities": [
+      "Well-equipped laboratories",
+      "Library",
+      "Sports facilities",
+      "Hostels",
+      "Transportation",
+      "Cafeteria",
+      "Wi-Fi campus"
+    ]
+  },
+  "academic_programs": {
+    "undergraduate": [
+      {
+        "name": "B.E Civil Engineering",
+        "abbreviation": "CE",
+        "duration": "4 years"
+      },
+      {
+        "name": "B.E Computer Science Engineering",
+        "abbreviation": "CSE",
+        "duration": "4 years"
+      },
+      {
+        "name": "B.E Electrical and Electronics Engineering",
+        "abbreviation": "EEE",
+        "duration": "4 years"
+      },
+      {
+        "name": "B.E Electronics and Communication Engineering",
+        "abbreviation": "ECE",
+        "duration": "4 years"
+      },
+      {
+        "name": "B.Tech Information Technology",
+        "abbreviation": "IT",
+        "duration": "4 years"
+      },
+      {
+        "name": "B.E Mechanical Engineering",
+        "abbreviation": "ME",
+        "duration": "4 years"
+      },
+      {
+        "name": "B.Tech Artificial Intelligence and Data Science",
+        "abbreviation": "AI&DS",
+        "duration": "4 years",
+        "description": "The program encompasses emerging areas in Data Science, Data Engineering, and Advanced Analytics through application-oriented and student-centric learning."
+      },
+      {
+        "name": "B.Tech Computer Science and Business Systems",
+        "abbreviation": "CSBS",
+        "duration": "4 years"
+      }
+    ],
+    "postgraduate": [
+      {
+        "name": "Master of Business Administration",
+        "abbreviation": "MBA",
+        "duration": "2 years"
+      },
+      {
+        "name": "Master of Computer Application",
+        "abbreviation": "MCA",
+        "duration": "2 years"
+      },
+      {
+        "name": "M.E Power Electronics and Drives",
+        "abbreviation": "PED",
+        "duration": "2 years"
+      },
+      {
+        "name": "M.E Communication Systems",
+        "abbreviation": "CS",
+        "duration": "2 years"
+      },
+      {
+        "name": "M.E Computer Science Engineering",
+        "abbreviation": "CSE",
+        "duration": "2 years"
+      },
+      {
+        "name": "M.E Engineering Design",
+        "abbreviation": "ED",
+        "duration": "2 years"
+      }
+    ]
+  },
+  "departments": [
+    {
+      "name": "Department of Artificial Intelligence and Data Science",
+      "abbreviation": "AI&DS",
+      "established": 2020,
+      "head": "Dr. S. Artheeswari",
+      "vision": "Thrive as a centre of excellence through teacher and learner-centred education, innovation and state-of-the-art research by providing skilled engineers to create a sustainable, value-based society.",
+      "mission": [
+        "To provide skill-based education to master the students in problem-solving and analytical skills",
+        "To enrich and empower students' calibre through the best teaching-learning methodology to meet the demands of the corporate world",
+        "To guide students in research with the aim of having an ethical impact on society",
+        "Grooming professionals with high ethical values and the ability to solve real-life problems"
+      ],
+      "program_objectives": [
+        "The program encompasses emerging areas in Data Science, Data Engineering, and Advanced Analytics through application-oriented and student-centric learning",
+        "The program fosters students to acquire expertise in critical skills such as artificial intelligence, machine learning, product development, scripting languages, and mathematical modelling",
+        "Acquire meaningful insights in the areas of natural language processing, text mining, robotics, reasoning and problem-solving",
+        "Create and design intelligent solutions for real-time business applications"
+      ],
+      "clubs": [
+        {
+          "name": "AI Club",
+          "description": "The objective of the club is to equip the experts, students and enthusiasts with the ability and skills to analyse, design and develop computer systems and their applications"
+        },
+        {
+          "name": "DS Club",
+          "description": "The objective of data science club is to educate students with the intuition and real time applications of Data Science"
+        },
+        {
+          "name": "Dream Maker Startup Club",
+          "description": "The Startup Club aims to bridge this gap by creating a vibrant community that nurtures and empowers entrepreneurs on their journey to success"
+        },
+        {
+          "name": "Visual Communication Club",
+          "description": "Provides a platform for individuals interested in various forms of visual media, such as photography, graphic design, and filmmaking"
+        }
+      ],
+      "job_opportunities": [
+        {
+          "field": "Data Science",
+          "roles": ["Data Scientist", "Data Architect", "Data Science Manager", "Data Analyst", "Computer Vision Engineer"]
+        },
+        {
+          "field": "Artificial Intelligence",
+          "roles": ["Artificial Intelligence Solution Leader", "Data Architect", "Data Science Manager", "Data Analyst", "Computer Vision Engineer"]
+        }
+      ],
+      "events": [
+        "AI_HACKBLITZ-XXV - Three day Hackathon program through AI club",
+        "One day Technical Seminar on Kickstarting your AI Journey",
+        "2 Day workshop on IOT and its Applications",
+        "Enablement Program on Data Analytics",
+        "Workshop on Recent Technologies and Generative AI Tools",
+        "Technical Seminar on Microsoft Fabric – Fabric BI",
+        "Guest Lecture on Unlocking the power of Machine Learning",
+        "6-day Value Added Course on UI/UX Design",
+        "6-day Value Added Course on Autonomous Robotics and AI Integration",
+        "Guest Lecture on Amazon Web Hosting"
+      ]
+    },
+    {
+      "name": "Department of Computer Science Engineering",
+      "abbreviation": "CSE",
+      "events": [
+        "TECHNOVATION 2K24 - Technical symposium",
+        "Workshop on Augmented Reality-Game Development",
+        "Coding Club Activity - Codeathon'25",
+        "Alumni Seminar on Robot Framework",
+        "Guest lecture on Cyber Crime and Cyber Security"
+      ]
+    },
+    {
+      "name": "Department of Electrical and Electronics Engineering",
+      "abbreviation": "EEE",
+      "events": [
+        "Electrospark-24 - National Level Technical Symposium",
+        "Alumni Seminar on Research Path on IOT",
+        "6 DAY VALUE ADDED COURSE ON ELECTRICAL HOUSE WIRING"
+      ]
+    },
+    {
+      "name": "Department of Mechanical Engineering",
+      "abbreviation": "ME",
+      "events": [
+        "Workshop on Product Design and Reverse Engineering",
+        "One Day Webinar on Mechatronics",
+        "Six day Value Added Course on The Role of Robotics in Modern Manufacturing",
+        "Six day Value Added Course on Tool and Die Design"
+      ]
+    }
+  ],
+  "placements": {
+    "placement_record": "20% (2023-24)",
+    "placement_partners": [
+      "Zoho",
+      "Cognizant",
+      "Infosys",
+      "MRF",
+      "TCS",
+      "Wipro",
+      "HCL",
+      "Amazon",
+      "Microsoft"
+    ],
+    "placement_officer": "Dr. P. Sathish Kumar",
+    "contact": {
+      "mobile": "9486416214",
+      "email": "placement@mailamengg.com"
+    }
+  },
+  "events": [
+    {
+      "name": "Silver Jubilee Celebration",
+      "description": "Celebrating 25 years of excellence in education",
+      "year": 2023
+    },
+    {
+      "name": "19th Graduation Day",
+      "description": "Annual graduation ceremony for passing out students"
+    },
+    {
+      "name": "Achiever's Day 2024",
+      "description": "Celebrating student achievements and recognizing excellence"
+    },
+    {
+      "name": "International Women's Day",
+      "description": "Celebration of women's achievements and promoting gender equality"
+    },
+    {
+      "name": "Pongal Celebration",
+      "description": "Cultural celebration of the harvest festival"
+    }
+  ],
+  "admissions": {
+    "undergraduate": {
+      "eligibility": "Pass in 10+2 with Physics, Chemistry and Mathematics",
+      "admission_process": "Through Tamil Nadu Engineering Admissions (TNEA) counselling or Management quota",
+      "documents_required": [
+        "10th Mark Sheet",
+        "12th Mark Sheet",
+        "Transfer Certificate",
+        "Community Certificate",
+        "Passport size photographs"
+      ]
+    },
+    "postgraduate": {
+      "eligibility": "Pass in relevant undergraduate degree with minimum 50% marks",
+      "admission_process": "Through Tamil Nadu Common Entrance Test (TANCET) or Management quota",
+      "documents_required": [
+        "UG Degree Certificate",
+        "UG Mark Sheets",
+        "Transfer Certificate",
+        "Community Certificate",
+        "Passport size photographs"
+      ]
+    },
+    "contact": {
+      "phone": "04147-241515 / 241551",
+      "mobile": "+91 9360428683",
+      "email": "admissions@mailamengg.com"
+    }
+  }
+}

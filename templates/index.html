@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Minimal AI Assistant</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Minimal AI Assistant</h1>
+            <p>-BY Arunraze</p>
+        </header>
+
+        <main>
+            <section class="chat-container">
+                <div id="chat-history" class="chat-history">
+                    {% if chat_history %}
+                        {% for exchange in chat_history %}
+                            <div class="message user-message">
+                                <div class="message-content">{{ exchange.question }}</div>
+                            </div>
+                            <div class="message ai-message">
+                                <div class="message-content">{{ exchange.response }}</div>
+                            </div>
+                        {% endfor %}
+                    {% else %}
+                        <div class="welcome-message">
+                            <p>Hello! I'm a simple AI assistant. Ask me a question to get started.</p>
+                        </div>
+                    {% endif %}
+                </div>
+
+                <form id="question-form" class="question-form">
+                    <div class="input-container">
+                        <input type="text" id="question-input" name="question" placeholder="Type your question here..." autocomplete="off">
+                        <button type="submit" id="ask-btn">Ask</button>
+                    </div>
+                </form>
+
+                <div class="controls">
+                    <button id="clear-btn" class="secondary-btn">Clear Chat</button>
+                </div>
+            </section>
+
+            <section class="upload">
+                <h2>Upload Knowledge Base</h2>
+                <p>Upload a text file to enhance my knowledge</p>
+                <form id="upload-form" enctype="multipart/form-data">
+                    <div class="form-group">
+                        <label for="corpus-file">Text file:</label>
+                        <input type="file" id="corpus-file" name="corpus" accept=".txt">
+                    </div>
+                    <button type="submit" id="upload-btn">Upload & Use</button>
+                </form>
+                <div id="upload-status"></div>
+            </section>
+        </main>
+
+        <footer>
+            <p>Minimal AI Assistant -BY Arunraze</p>
+        </footer>
+    </div>
+
+    <script src="{{ url_for('static', filename='js/script.js') }}"></script>
+</body>
+</html>
